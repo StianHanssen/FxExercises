@@ -1,4 +1,4 @@
-package sceneBuiler;
+package sceneBuilerCode;
 	
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
